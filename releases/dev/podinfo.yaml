@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: wortner/podinfo
-      tag: dev-nieempxa
+      tag: dev-h5643r13
     replicaCount: 1
     hpa:
       enabled: false
