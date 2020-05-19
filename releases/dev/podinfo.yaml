@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: 192.168.10.103:5000/podinfo
-      tag: dev-hdtwcel9
+      tag: niwdveki
     replicaCount: 1
     hpa:
       enabled: false
