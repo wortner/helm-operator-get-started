@@ -15,8 +15,8 @@ spec:
     ref: master
   values:
     image:
-      repository: 192.168.10.103:5000/podinfo
-      tag: niwdveki
+      repository: wortner/podinfo
+      tag: nieempxa
     replicaCount: 1
     hpa:
       enabled: false
